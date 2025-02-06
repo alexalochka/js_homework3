@@ -18,14 +18,6 @@ console.log(c)
 
 
 
-
-
-
-
-
-
-
-
 // Other working schemes but not meet requirements fully
 
 
