@@ -18,7 +18,7 @@ console.log(c)
 
 
 
-// Other working schemes but not meet requirements fully
+// Other working schemes but does not meet requirements fully
 
 
 
